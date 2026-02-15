@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Express Products API
 
 ## Setup
@@ -14,3 +15,6 @@
 - PUT /api/products/:id → Update product (requires x-api-key header)
 - DELETE /api/products/:id → Delete product (requires x-api-key header)
 - GET /api/products/stats/category → Product count by category
+=======
+# PLP-MERN-Express.js-server-side-framework
+>>>>>>> 55f9a84bcca93960b1e4cb98e5d9c1d2ae5f8a4e
